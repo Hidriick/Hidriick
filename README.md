@@ -1,18 +1,12 @@
 <img src = "gif-fundo.gif" width = "325px" align = "right">
 
-#  Oi, é bom ve-lo por aqui!
+#  Oi, é bom te-lo comigo!
 
- <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <a href = "https://github.com/Hidriick">
-    <img src="https://img.shields.io/github/followers/Hidriick?style=social" alt="Follow me"/>
-    </a>
-</div>
   
-Sou desenvolvedor Front-end, estudioso e em inicio de carrera para praticar desenvolvo alguns sites para amigos que estão abrindo comercio
+Sou desenvolvedor Front-end, estudioso e em inicio de carrera para praticar desenvolvo alguns sites para amigos e desenvolvo ideias
 
 - ❤ Estudante de Programação
-- 💙 Fã da Udemy e Youtube
+- 💙 Sempre nas minhas horas livres costumo ler e estudar sobre coquetelaria e programação.
 - 👩‍💻 Aprendendo Javascript, bootstrap e angular
 - 👩‍💻 Melhorando habilidades em Html e Css
 
