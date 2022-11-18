@@ -3,7 +3,7 @@
 #  Oi, é bom te-lo comigo!
 
   
-Sou desenvolvedor Front-end, estudioso e em inicio de carrera para praticar desenvolvo alguns sites para amigos e desenvolvo ideias
+Sou desenvolvedor Front-end, estudioso e em inicio de carreira para praticar desenvolvo alguns sites para amigos e busco projetos para desenvolver
 
 - ❤ Estudante de Programação
 - 💙 Sempre nas minhas horas livres costumo ler e estudar sobre coquetelaria e programação.
